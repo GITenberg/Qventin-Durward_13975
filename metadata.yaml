@@ -1,0 +1,38 @@
+_repo: Qventin-Durward_13975
+_version: 0.1.0
+alternative_title: Quentin Durward. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13975'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Charles, Duke of Burgundy, 1433-1477 -- Fiction'
+- !lcsh 'Scots -- France -- Fiction'
+- !lcsh 'France -- History -- Louis XI, 1461-1483 -- Fiction'
+- !lcsh 'Louis XI, King of France, 1423-1483 -- Fiction'
+- !lcsh 'Historical fiction'
+title: Qventin Durward
+url: http://www.gutenberg.org/ebooks/13975
